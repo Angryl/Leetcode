@@ -21,4 +21,8 @@ An integer is a palindrome when it reads the same backward as forward. For examp
 [problem](https://leetcode.com/problems/longest-common-prefix/)
 Write a function to find the longest common prefix string amongst an array of strings.
 <br/>Solution [here](https://github.com/Angryl/Leetcode/blob/main/Longest%20Common%20Prefix.java)
-### 
+
+- Valid Parentheses<br/>
+[problem](https://leetcode.com/problems/valid-parentheses/)
+Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.<br/>
+solution [here](https://github.com/Angryl/Leetcode/blob/main/Valid%20Parentheses.java)
