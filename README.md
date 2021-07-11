@@ -31,3 +31,8 @@ solution [here](https://github.com/Angryl/Leetcode/blob/main/Valid%20Parentheses
 [problem](https://leetcode.com/problems/merge-two-sorted-lists/)
 Merge two sorted linked lists and return it as a sorted list. The list should be made by splicing together the nodes of the first two lists.<br/>
 solution [here](https://github.com/Angryl/Leetcode/blob/main/Merge%20Two%20Sorted%20Lists.java)
+
+- Remove Duplicates from Sorted Array<br/>
+[problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+Given an integer array nums sorted in non-decreasing order, remove the duplicates in-place such that each unique element appears only once. The relative order of the elements should be kept the same.<br/>
+solution [here](https://github.com/Angryl/Leetcode/blob/main/Remove%20Duplicates%20from%20Sorted%20Array.java)
