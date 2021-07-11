@@ -36,3 +36,8 @@ solution [here](https://github.com/Angryl/Leetcode/blob/main/Merge%20Two%20Sorte
 [problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 Given an integer array nums sorted in non-decreasing order, remove the duplicates in-place such that each unique element appears only once. The relative order of the elements should be kept the same.<br/>
 solution [here](https://github.com/Angryl/Leetcode/blob/main/Remove%20Duplicates%20from%20Sorted%20Array.java)
+
+- Remove Element<br/>
+[problem](https://leetcode.com/problems/remove-element/)
+Given an integer array nums and an integer val, remove all occurrences of val in nums in-place. The relative order of the elements may be changed.<br/>
+solution [here](https://github.com/Angryl/Leetcode/blob/main/Remove%20Element.py)
