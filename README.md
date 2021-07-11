@@ -26,3 +26,8 @@ Write a function to find the longest common prefix string amongst an array of st
 [problem](https://leetcode.com/problems/valid-parentheses/)
 Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.<br/>
 solution [here](https://github.com/Angryl/Leetcode/blob/main/Valid%20Parentheses.java)
+
+-  Merge Two Sorted Lists<br/>
+[problem](https://leetcode.com/problems/merge-two-sorted-lists/)
+Merge two sorted linked lists and return it as a sorted list. The list should be made by splicing together the nodes of the first two lists.<br/>
+solution [here](https://github.com/Angryl/Leetcode/blob/main/Merge%20Two%20Sorted%20Lists.java)
