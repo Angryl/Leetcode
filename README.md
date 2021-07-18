@@ -48,4 +48,3 @@ Given a sorted array of distinct integers and a target value, return the index i
 solution [here](https://github.com/Angryl/Leetcode/blob/main/Search%20Insert%20Position.java)
 
 wait for the new problem
-ill update them soon
